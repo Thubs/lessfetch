@@ -17,6 +17,7 @@ This is just Dylan Araps neofetch with as much bloat removed as I can
 
 - Cross platform support
 - Unused features
+- This is made for me and if you don't like it then that sucks
 
 ## TODO
 
