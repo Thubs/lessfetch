@@ -11,13 +11,13 @@ This is just Dylan Araps neofetch with as much bloat removed as I can
 
 ## Goals
 
-    - No bugs
+- No bugs
 
 ## Don't care
 
-    - Cross platform support
-    - Unused features
+- Cross platform support
+- Unused features
 
 ## TODO
 
-    - Fix the spacing between the logo and the info
+- Fix the spacing between the logo and the info
