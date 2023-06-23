@@ -7,7 +7,7 @@ This is just Dylan Araps neofetch with as much bloat removed as I can
 - config.conf is 18.7kb untouched
 - base neofetch  is 397.3kb untouched
 
-- lessfetch is 27.3kb as of 23nd of June
+- lessfetch is 27.3kb as of the 23nd of June
 
 ## Goals
 
@@ -20,4 +20,4 @@ This is just Dylan Araps neofetch with as much bloat removed as I can
 
 ## TODO
 
-    - N/A
+    - Fix the spacing between the logo and the info
